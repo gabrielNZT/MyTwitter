@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="junit-platform-runner">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/junit5-main/junit-platform-runner" />
+      <root url="file://$USER_HOME$/Downloads/junit5-main/junit-platform-runner/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
